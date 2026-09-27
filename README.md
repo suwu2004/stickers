@@ -22,5 +22,11 @@ Public sticker images for Claude.
 - 16.png — https://cdn.jsdelivr.net/gh/suwu2004/stickers@main/16.png
 - 17.png — https://cdn.jsdelivr.net/gh/suwu2004/stickers@main/17.png
 - 18.png — https://cdn.jsdelivr.net/gh/suwu2004/stickers@main/18.png
+- 19.jpg — https://cdn.jsdelivr.net/gh/suwu2004/stickers@main/19.jpg
+- 20.jpg — https://cdn.jsdelivr.net/gh/suwu2004/stickers@main/20.jpg
+- 21.jpg — https://cdn.jsdelivr.net/gh/suwu2004/stickers@main/21.jpg
+- 22.png — https://cdn.jsdelivr.net/gh/suwu2004/stickers@main/22.png
+- 23.png — https://cdn.jsdelivr.net/gh/suwu2004/stickers@main/23.png
+- 24.png — https://cdn.jsdelivr.net/gh/suwu2004/stickers@main/24.png
 
 Claude can reference these public CDN URLs when rendering a sticker.
